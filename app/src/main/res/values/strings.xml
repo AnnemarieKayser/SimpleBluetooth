@@ -4,4 +4,5 @@
     <string name="buttonSucheGeräte">Start Suche Geräte</string>
     <string name="bt_not_available">Bluetooth nicht verfügbar</string>
     <string name="bt_no_paired_devices">Keine gekoppelten Geräte vorhanden</string>
+    <string name="buttonStoppSucheGeräte">Stopp Suche Geräte</string>
 </resources>
